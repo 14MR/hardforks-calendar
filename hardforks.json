@@ -1,0 +1,10 @@
+[
+  {
+    "chain": "ethereum",
+    "chain_type": "mainnet",
+    "timestamp": 1710338135,
+    "name": "Dencun Network Upgrade (EIP-7569)",
+    "description": "Dencun network upgrade across both Ethereum’s execution and consensus layers.\n",
+    "url": "https://eips.ethereum.org/EIPS/eip-7569"
+  }
+]
