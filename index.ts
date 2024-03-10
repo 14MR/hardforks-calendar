@@ -23,4 +23,4 @@ hardforks.forEach(hardfork => {
 });
 
 const calendarData = calendar.toString()
-writeFileSync('hardforks.ics', calendarData);
+writeFileSync('website/hardforks.ics', calendarData);

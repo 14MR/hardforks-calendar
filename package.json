@@ -5,8 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "prod": "node index.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate": "npx tsx index.ts"
   },
   "author": "",
   "license": "ISC",
